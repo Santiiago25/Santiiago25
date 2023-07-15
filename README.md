@@ -1,4 +1,3 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Santiago Tocora</h1>
 <h3 align="center">Electronic Engineer passionate about programming using languages such as Python, Java and C++. I love circuit design.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f904f0edc89546c89757b2b/1607056915169-SMSH9OTHT8XPFJK3RT7J/image-asset.gif">
