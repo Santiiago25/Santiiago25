@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Tocora</h1>
-<h3 align="center">Electronic Engineer passionate about programming using languages such as Python, Java and C++. I love circuit design.</h3>
+<h3 align="center">Electronic Engineer passionate about programming. I love circuit design.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f904f0edc89546c89757b2b/1607056915169-SMSH9OTHT8XPFJK3RT7J/image-asset.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiiago25&label=Profile%20views&color=0e75b6&style=flat" alt="santiiago25" /> </p>
