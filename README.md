@@ -1,19 +1,87 @@
-<h1 align="center">Hi 👋, I'm Santiago Tocora</h1>
-<h3 align="center">Electronic Engineer passionate about programming. I love circuit design.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f904f0edc89546c89757b2b/1607056915169-SMSH9OTHT8XPFJK3RT7J/image-asset.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiiago25&label=Profile%20views&color=0e75b6&style=flat" alt="santiiago25" /> </p>
+# Santiago Tocora
 
-- 💬 Ask me about **Java , Python , C**
+### Software Developer · Electronic Engineer · M.Sc. in Software Engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kevin-santiago-tocora-bermudez-887980120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin santiago tocora bermudez" height="30" width="40" /></a>
+Backend platforms · Enterprise systems · Cloud infrastructure · IoT · Applied research
+
+[LinkedIn](https://www.linkedin.com/in/kevin-santiago-tocora-bermudez-887980120/)
+
+</div>
+
+---
+
+## Profile
+
+Electronic engineer and software developer focused on building reliable backend platforms, enterprise systems and cloud-based solutions.
+
+My work connects software engineering with electronics, IoT and applied research. I am especially interested in system architecture, automation and the design of technology that solves real-world problems.
+
+## Areas of expertise
+
+- Backend development with Java, Spring Boot and Python
+- Enterprise platforms and distributed systems
+- Cloud infrastructure, containers and CI/CD
+- Relational databases and data integration
+- IoT, embedded systems and electronics
+- Artificial intelligence and machine learning
+
+## Technology stack
+
+### Backend and enterprise
+
+<p>
+  <img src="https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-18181B?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/COBOL-18181B?style=flat-square&logoColor=white" alt="COBOL" />
+  <img src="https://img.shields.io/badge/Oracle_Tuxedo-18181B?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Tuxedo" />
+  <img src="https://img.shields.io/badge/Oracle_WebLogic-18181B?style=flat-square&logo=oracle&logoColor=white" alt="Oracle WebLogic" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Cloud and DevOps
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiiago25&show_icons=true&locale=en&layout=compact" alt="santiiago25" /></p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-18181B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-18181B?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/CI%2FCD-18181B?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiiago25&show_icons=true&locale=en" alt="santiiago25" /></p>
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-18181B?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-18181B?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### Electronics and applied technology
+
+<p>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-18181B?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Electronics-18181B?style=flat-square&logo=esphome&logoColor=white" alt="Electronics" />
+  <img src="https://img.shields.io/badge/IoT-18181B?style=flat-square&logo=mqtt&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/AI_%26_ML-18181B?style=flat-square&logo=tensorflow&logoColor=white" alt="Artificial Intelligence and Machine Learning" />
+</p>
+
+## Current focus
+
+I am currently working on backend architecture, cloud-native solutions and projects where software, electronics and research converge.
+
+## Contact
+
+For professional opportunities, technical collaboration or applied research, connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-santiago-tocora-bermudez-887980120/).
